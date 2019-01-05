@@ -1,3 +1,7 @@
+---UPDATE---<br>
+BUG PATCHED. SYSTEM ONLY SENDING 3 SMS(s) RIGHT NOW.<br>
+
+
 <b>TELKOMSEL ONLY</b>
 
 ----------------------
